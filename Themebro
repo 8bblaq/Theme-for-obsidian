@@ -156,7 +156,7 @@ do
         ["Hellstar"] = {
             20,
             httpService:JSONDecode(
-                [[{"FontColor":"ffffff","MainColor":"2d0000","AccentColor":"ff0000","BackgroundColor":"120000","OutlineColor":"dd0000"}]]
+                [[{"FontColor":"ffffff","MainColor":"bb0000","AccentColor":"ff0000","BackgroundColor":"cc0000","OutlineColor":"dd0000"}]]
             ),
         },
     }
